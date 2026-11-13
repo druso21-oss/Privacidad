@@ -3,7 +3,7 @@ POLÍTICA DE PRIVACIDAD DE APLICACIONES D.C.R.
 
 1. RESPONSABLE DEL TRATAMIENTO
 El titular y desarrollador de las aplicaciones móviles publicadas bajo la marca D.C.R. (incluyendo "IPSC Calc D.C.R." y "Cuadrantes D.C.R.") es Druso Calatayud Rodríguez (en adelante, "el Desarrollador").
-Correo electrónico de contacto: [ESCRIBE AQUÍ TU CORREO DE DESARROLLADOR]
+Correo electrónico de contacto:dodo.dcr.studio@gmail.com
 
 2. DATOS RECOPILADOS Y ALMACENAMIENTO LOCAL
 Nuestras aplicaciones han sido diseñadas bajo el principio de privacidad por defecto:
